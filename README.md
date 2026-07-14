@@ -1,25 +1,30 @@
-# 🎈 Blank app template
+# Humble Investment Committee
 
-A simple Streamlit app template for you to modify!
+> Seek truth, not confirmation.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Mission
 
-### How to run it on your own machine
+Build the world's most transparent and evidence-based investment research platform.
 
-Prerequisite: install `uv` if you don't already have it.
+## Principles
 
-```
-$ curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+- Strong opinions, loosely held.
+- Facts before opinions.
+- Primary sources over headlines.
+- Every investment decision is documented.
+- Every model can be challenged.
+- Every assumption has an owner.
 
-1. Sync the dependencies
+## Current Project
 
-   ```
-   $ uv sync
-   ```
+SpaceX (SPCX)
 
-2. Run the app
+Goal:
+Estimate intrinsic value using multiple independent valuation methods.
 
-   ```
-   $ uv run streamlit run streamlit_app.py
-   ```
+Methods:
+- Discounted Cash Flow
+- Market Comparables
+- Sum of the Parts
+
+Every change to this repository should improve understanding, not confidence.
