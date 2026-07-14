@@ -1,4 +1,4 @@
-# Humble Investment Committee
+# Humble Roundtable
 
 > Seek truth, not confirmation.
 
