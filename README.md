@@ -1,4 +1,4 @@
-# Humble Roundtable
+# Humble Round Table
 
 > Seek truth, not confirmation.
 
